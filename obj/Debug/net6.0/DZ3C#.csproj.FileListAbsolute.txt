@@ -1,0 +1,15 @@
+C:\Users\Вадим\Desktop\DZ3C#\bin\Debug\net6.0\DZ3C#.exe
+C:\Users\Вадим\Desktop\DZ3C#\bin\Debug\net6.0\DZ3C#.deps.json
+C:\Users\Вадим\Desktop\DZ3C#\bin\Debug\net6.0\DZ3C#.runtimeconfig.json
+C:\Users\Вадим\Desktop\DZ3C#\bin\Debug\net6.0\DZ3C#.dll
+C:\Users\Вадим\Desktop\DZ3C#\bin\Debug\net6.0\DZ3C#.pdb
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\DZ3C#.csproj.AssemblyReference.cache
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\DZ3C#.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\DZ3C#.AssemblyInfoInputs.cache
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\DZ3C#.AssemblyInfo.cs
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\DZ3C#.csproj.CoreCompileInputs.cache
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\DZ3C#.dll
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\refint\DZ3C#.dll
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\DZ3C#.pdb
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\DZ3C#.genruntimeconfig.cache
+C:\Users\Вадим\Desktop\DZ3C#\obj\Debug\net6.0\ref\DZ3C#.dll
